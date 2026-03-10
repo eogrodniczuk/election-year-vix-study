@@ -89,7 +89,7 @@ election-year-vix-study
 │   └── vix_election_trade.ipynb
 │
 └── data
-    └── vix_data_sample.csv
+    └── raw/vix_data_sample.csv
 ```
 
 ---
