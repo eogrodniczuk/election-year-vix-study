@@ -77,6 +77,7 @@ Full model outputs and figures are generated within the research notebook.
 
 ## Repository Structure
 
+```
 election-year-vix-study
 │
 ├── README.md
@@ -89,6 +90,7 @@ election-year-vix-study
 │
 └── data
     └── vix_data_sample.csv
+```
 
 ---
 
